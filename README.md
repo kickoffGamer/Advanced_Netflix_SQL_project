@@ -1,7 +1,7 @@
 # Advanced_Netflix_SQL_project
 Netflix Movies and TV Shows Data Analysis using SQL
 
-https://github.com/kickoffGamer/Advanced_Netflix_SQL_project/blob/main/Netflix-logo.png
+![](https://github.com/kickoffGamer/Advanced_Netflix_SQL_project/blob/main/Netflix-logo.png)
 
 
 ## Overview
